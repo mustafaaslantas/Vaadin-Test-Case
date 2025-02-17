@@ -19,7 +19,6 @@ public class Personel {
     }
     public String getAd() {
         return Ad;
-
     }
     public void setAd(String Ad) {
         this.Ad = Ad;
